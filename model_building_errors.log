@@ -1,0 +1,2 @@
+2026-01-05 19:54:12,525 - model_building - ERROR - Error during model training: The 'liblinear' solver does not support multiclass classification (n_classes >= 3). Either use another solver or wrap the estimator in a OneVsRestClassifier to keep applying a one-versus-rest scheme.
+2026-01-05 19:54:12,526 - model_building - ERROR - Failed to complete the model building process: The 'liblinear' solver does not support multiclass classification (n_classes >= 3). Either use another solver or wrap the estimator in a OneVsRestClassifier to keep applying a one-versus-rest scheme.

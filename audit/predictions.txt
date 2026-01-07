@@ -9,3 +9,8 @@ I am happy today., Happpy
 bhot hui aam indagi, chalo jiye mentos zindagi, Neutral 
 This is a service i started using docker compose and i am happy that it works as planned, Neutral 
 I am happy , Happpy 
+I am Happy, Happpy 
+I am overjoy, Neutral 
+I am mad at someone, Neutral 
+I am crying, Sad    
+Hello, Neutral 
