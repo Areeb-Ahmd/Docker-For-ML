@@ -1,4 +1,4 @@
-name: my-ml-app
+name: machine-learning-app
 
 services:
   sentiment-analysis-app:

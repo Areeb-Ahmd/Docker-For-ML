@@ -14,3 +14,4 @@ I am overjoy, Neutral
 I am mad at someone, Neutral 
 I am crying, Sad    
 Hello, Neutral 
+I am happy, Happpy 
